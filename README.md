@@ -13,3 +13,5 @@ The alternatives i Have considered Exploring additional models like ARIMA, XGBoo
 The dataset i have used from kaggle.
 
 Link: https://www.kaggle.com/datasets/meetnagadia/coco-cola-stock-data-19622021/data
+
+![image](https://github.com/vivekvardhan2810/Coca-Cola-Stock-Analysis/assets/91594529/4e463adb-4e92-440f-b236-61965dc4b28e)
